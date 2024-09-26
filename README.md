@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python developer</h3>
 
 
-- 🔭 I’m currently working on **Tradtracker**
+- 🔭 I’m currently working on **Proteam : A project management web app**
 
 - 🌱 I’m currently learning **advanced cloud computing and AI**
 
