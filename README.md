@@ -53,11 +53,11 @@ I've also trained data engineering consultants now deployed at **Hermès**, **BP
 ### 🤖 AI & Agent Engineering
 
 <p>
-  <img height="48" src="https://cdn.simpleicons.org/anthropic/FFFFFF" title="Anthropic / Claude" />&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/openai/FFFFFF" title="OpenAI" />&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/amazonaws/FF9900" title="Amazon Bedrock" />&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/microsoftazure/0078D4" title="Azure AI Foundry" />&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/opensearch/005EB8" title="OpenSearch" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/claude.svg" title="Claude" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openai.svg" title="OpenAI" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/amazonaws.svg" title="Amazon Bedrock" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/microsoftazure.svg" title="Azure AI Foundry" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/opensearch.svg" title="OpenSearch" />&nbsp;&nbsp;
   <a href="https://openclaw.ai">
     <img src="https://img.shields.io/badge/OpenClaw-Agent_Runtime_·_2026-7C3AED?style=flat-square&logoColor=white" title="OpenClaw — the AI agent OS" />
   </a>
@@ -69,11 +69,11 @@ I've also trained data engineering consultants now deployed at **Hermès**, **BP
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kafka,postgres,redis&theme=dark" />
   </a>
-  &nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/snowflake/29B5E8" title="Snowflake" />&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/dbt/FF694B" title="dbt" />&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/googlebigquery/4285F4" title="BigQuery" />&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" title="Amazon Redshift" />
+  &nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/snowflake.svg" title="Snowflake" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/dbt.svg" title="dbt" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/googlebigquery.svg" title="BigQuery" />&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/amazonredshift.svg" title="Amazon Redshift" />
 </p>
 
 ### 💻 Dev
@@ -89,7 +89,7 @@ I've also trained data engineering consultants now deployed at **Hermès**, **BP
 ## Featured Projects
 
 ### 🏦 NeoCredit — Credit Data Platform
-> Production-grade credit bureau simulation built on AWS — designed for real Data Engineering training.
+> Production-grade credit bureau simulation on AWS — built for real Data Engineering training.
 
 - 850k client profiles · 2.5M+ credit applications · ~6.8M rows total
 - Real-time ingestion at ~23 clients/min via Lambda + EventBridge
