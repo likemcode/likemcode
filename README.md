@@ -1,12 +1,22 @@
 <div align="center">
 
-# Josué Avuh
+<h1>Josué Avuh</h1>
 
-### From architecture thinking to production systems.
+<p><em>I build systems where approximation is not an option.</em></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ip-172-31-92-22-1.tail71f419.ts.net/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josu%C3%A9_Avuh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-avuh-03957827a)
-[![Email](https://img.shields.io/badge/Email-jkomi2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jkomi2003@gmail.com)
+<p>
+  <a href="https://josueavuh.vercel.app/en">
+    <img src="https://img.shields.io/badge/Portfolio-josueavuh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/josue-avuh-03957827a">
+    <img src="https://img.shields.io/badge/LinkedIn-Josué_Avuh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jkomi2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jkomi2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<sub>🌍 Benin Republic &nbsp;·&nbsp; operating across France, Mauritius, Morocco</sub>
 
 </div>
 
@@ -14,80 +24,95 @@
 
 ## About
 
-I design and build **cloud-native systems**, **AI agents**, and **modern data platforms**.
+Solution Architect working at the intersection of **Cloud**, **AI**, and **Data** — for organizations where production reliability is non-negotiable.
 
-My focus is simple: turn business complexity into systems that are robust, scalable, and actually usable in production.
+I design systems from first principles: streaming pipelines, multi-cloud infrastructure, enterprise AI agents. I carry a project from architecture framing all the way to production delivery.
 
-I work across **Cloud**, **AI**, and **Data** — from architecture framing to implementation, automation, and delivery.
+I've also trained data engineering consultants now deployed at **Hermès**, **BPCE**, and **SwissLife**.
 
 ---
 
 ## What I build
 
-- **AI agents & copilots** powered by enterprise knowledge, tools, and guardrails
-- **Data platforms** for analytics, CDC pipelines, medallion architectures, and BI
-- **Cloud-native systems** designed for scale, observability, and operational clarity
+- 🤖 &nbsp;**AI agents & copilots** — enterprise knowledge systems with tools, memory, and policy guardrails
+- 📊 &nbsp;**Data platforms** — CDC pipelines, medallion architectures, streaming analytics, real-time BI
+- ☁️ &nbsp;**Cloud-native systems** — event-driven, multi-cloud, observable from day one
 
 ---
 
-## Core stack
+## Stack
 
-### Cloud & Platform
+### ☁️ Cloud & Platform
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,terraform,linux&theme=dark" />
+  </a>
 </p>
 
-### AI & Agent Engineering
+### 🤖 AI & Agent Engineering
+
 <p>
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img height="48" src="https://cdn.simpleicons.org/anthropic/FFFFFF" title="Anthropic / Claude" />&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/openai/FFFFFF" title="OpenAI" />&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/amazonaws/FF9900" title="Amazon Bedrock" />&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/microsoftazure/0078D4" title="Azure AI Foundry" />&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/opensearch/005EB8" title="OpenSearch" />&nbsp;&nbsp;
+  <a href="https://openclaw.ai">
+    <img src="https://img.shields.io/badge/OpenClaw-Agent_Runtime_·_2026-7C3AED?style=flat-square&logoColor=white" title="OpenClaw — the AI agent OS" />
+  </a>
 </p>
 
-### Data Engineering
+### 📊 Data Engineering
+
 <p>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,postgres,redis&theme=dark" />
+  </a>
+  &nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/snowflake/29B5E8" title="Snowflake" />&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/dbt/FF694B" title="dbt" />&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/googlebigquery/4285F4" title="BigQuery" />&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" title="Amazon Redshift" />
 </p>
 
-### Dev
+### 💻 Dev
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,fastapi,git,bash&theme=dark" />
+  </a>
 </p>
 
 ---
 
-## Current focus
+## Featured Projects
 
-- Designing **AI agent systems** with tools, memory, and guardrails
-- Building **real-world data platforms** with streaming + warehouse patterns
-- Shipping **practical cloud architectures** that connect business needs to production reality
+### 🏦 NeoCredit — Credit Data Platform
+> Production-grade credit bureau simulation built on AWS — designed for real Data Engineering training.
+
+- 850k client profiles · 2.5M+ credit applications · ~6.8M rows total
+- Real-time ingestion at ~23 clients/min via Lambda + EventBridge
+- **Stack:** PostgreSQL (RDS) · Lambda · EventBridge · Python · collision-safe ID sequences
+- `🔒 Private`
+
+---
+
+### 📡 IT Opportunities Tracker
+> Multi-repo intelligence system mapping consultant supply, market demand, and skill gaps.
+
+- 7 coordinated repos · automated insights pipeline · bi-weekly synthesis reports
+- **Stack:** Python · GitHub Actions · NLP · internal BI dashboard
+- `🔒 Private`
 
 ---
 
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_SAA--C03-In_Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_AI--102-In_Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Agentic_AI_Business_Solutions_Architect-In_Progress-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_SAA--C03-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI--102-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_MB--280-Certified-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
@@ -106,7 +131,5 @@ I work across **Cloud**, **AI**, and **Data** — from architecture framing to i
 ---
 
 <div align="center">
-
-**Cloud · AI · Data**
-
+  <sub>Cloud · AI · Data — built in West Africa, deployed worldwide</sub>
 </div>
