@@ -45,43 +45,47 @@ I've also trained data engineering consultants now deployed at **Hermès**, **BP
 ### ☁️ Cloud & Platform
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,terraform,linux&theme=dark" />
-  </a>
+  <a href="https://aws.amazon.com"><img height="45" src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" /></a>&nbsp;
+  <a href="https://azure.microsoft.com"><img height="45" src="https://skillicons.dev/icons?i=azure&theme=dark" title="Azure" /></a>&nbsp;
+  <a href="https://cloud.google.com"><img height="45" src="https://skillicons.dev/icons?i=gcp&theme=dark" title="Google Cloud" /></a>&nbsp;
+  <a href="https://docker.com"><img height="45" src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" /></a>&nbsp;
+  <a href="https://terraform.io"><img height="45" src="https://skillicons.dev/icons?i=terraform&theme=dark" title="Terraform" /></a>&nbsp;
+  <a href="https://kernel.org"><img height="45" src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>
 </p>
 
 ### 🤖 AI & Agent Engineering
 
 <p>
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/claude.svg" title="Claude" />&nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openai.svg" title="OpenAI" />&nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/amazonaws.svg" title="Amazon Bedrock" />&nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/microsoftazure.svg" title="Azure AI Foundry" />&nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/opensearch.svg" title="OpenSearch" />&nbsp;&nbsp;
-  <a href="https://openclaw.ai">
-    <img src="https://img.shields.io/badge/OpenClaw-Agent_Runtime_·_2026-7C3AED?style=flat-square&logoColor=white" title="OpenClaw — the AI agent OS" />
-  </a>
+  <a href="https://claude.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/claude.svg" title="Claude" /></a>&nbsp;&nbsp;
+  <a href="https://openai.com"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openai.svg" title="OpenAI" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/bedrock"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/amazonaws.svg" title="Amazon Bedrock" /></a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/en-us/products/ai-services"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/microsoftazure.svg" title="Azure AI Foundry" /></a>&nbsp;&nbsp;
+  <a href="https://opensearch.org"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/opensearch.svg" title="OpenSearch" /></a>&nbsp;&nbsp;
+  <a href="https://openclaw.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openclaw.svg" title="OpenClaw — AI Agent Runtime" /></a>
 </p>
 
 ### 📊 Data Engineering
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,postgres,redis&theme=dark" />
-  </a>
-  &nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/snowflake.svg" title="Snowflake" />&nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/dbt.svg" title="dbt" />&nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/googlebigquery.svg" title="BigQuery" />&nbsp;&nbsp;
-  <img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/amazonredshift.svg" title="Amazon Redshift" />
+  <a href="https://kafka.apache.org"><img height="45" src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Apache Kafka" /></a>&nbsp;
+  <a href="https://postgresql.org"><img height="45" src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" /></a>&nbsp;
+  <a href="https://redis.io"><img height="45" src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" /></a>&nbsp;
+  <a href="https://snowflake.com"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/snowflake.svg" title="Snowflake" /></a>&nbsp;&nbsp;
+  <a href="https://getdbt.com"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/dbt.svg" title="dbt" /></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com/bigquery"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/googlebigquery.svg" title="BigQuery" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/redshift"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/amazonredshift.svg" title="Amazon Redshift" /></a>
 </p>
 
 ### 💻 Dev
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,fastapi,git,bash&theme=dark" />
-  </a>
+  <a href="https://python.org"><img height="45" src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" /></a>&nbsp;
+  <a href="https://typescriptlang.org"><img height="45" src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" /></a>&nbsp;
+  <a href="https://react.dev"><img height="45" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" /></a>&nbsp;
+  <a href="https://nextjs.org"><img height="45" src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" /></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com"><img height="45" src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" /></a>&nbsp;
+  <a href="https://git-scm.com"><img height="45" src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;
+  <a href="https://gnu.org/software/bash"><img height="45" src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" /></a>
 </p>
 
 ---
@@ -93,7 +97,7 @@ I've also trained data engineering consultants now deployed at **Hermès**, **BP
 
 - 850k client profiles · 2.5M+ credit applications · ~6.8M rows total
 - Real-time ingestion at ~23 clients/min via Lambda + EventBridge
-- **Stack:** PostgreSQL (RDS) · Lambda · EventBridge · Python · collision-safe ID sequences
+- **Stack:** PostgreSQL (RDS) · Kafka · Glue · Snowflake · BigQuery · Python
 - `🔒 Private`
 
 ---
