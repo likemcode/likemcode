@@ -1,8 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:1E1B4B&height=180&section=header&text=Josué%20Avuh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20·%20AI%20·%20Data&descAlignY=60&descAlign=50&descColor=c4b5fd" />
+
 <div align="center">
-
-<h1>Josué Avuh</h1>
-
-<p><em>I build systems where approximation is not an option.</em></p>
 
 <p>
   <a href="https://josueavuh.vercel.app/en">
@@ -16,6 +14,8 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=likemcode&color=7C3AED&style=flat-square&label=Profile+views" />
+
 <sub>🌍 Benin Republic &nbsp;·&nbsp; operating across France, Mauritius, Morocco</sub>
 
 </div>
@@ -28,7 +28,9 @@ Solution Architect working at the intersection of **Cloud**, **AI**, and **Data*
 
 I design systems from first principles: streaming pipelines, multi-cloud infrastructure, enterprise AI agents. I carry a project from architecture framing all the way to production delivery.
 
-I've also trained data engineering consultants now deployed at **Hermès**, **BPCE**, and **SwissLife**.
+I've trained data engineering consultants now deployed at **Hermès**, **BPCE**, and **SwissLife**.
+
+<sub>**12+ consultants trained** &nbsp;·&nbsp; **3 countries** &nbsp;·&nbsp; **5+ production systems shipped** &nbsp;·&nbsp; **3 cloud providers**</sub>
 
 ---
 
@@ -132,8 +134,28 @@ I've also trained data engineering consultants now deployed at **Hermès**, **BP
   <img src="https://streak-stats.demolab.com?user=likemcode&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <sub>Cloud · AI · Data — built in West Africa, deployed worldwide</sub>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=likemcode&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=likemcode&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED" />
+</div>
+
+---
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likemcode/likemcode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likemcode/likemcode/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/likemcode/likemcode/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4F46E5,100:7C3AED&height=120&section=footer" />
