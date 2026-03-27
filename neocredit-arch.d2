@@ -1,0 +1,254 @@
+direction: right
+
+# ─── ZONE 1 : Sources & Ingestion (AWS) ──────────────────
+zone1: "① Sources & Ingestion (AWS)" {
+  style: {
+    fill: "#fff8f0"
+    stroke: "#FF9900"
+    stroke-width: 3
+    border-radius: 12
+    font-size: 15
+    bold: true
+  }
+
+  web: "🌐 Web & API\nSources" {
+    style: {
+      fill: "#FF9900"
+      font-color: "#ffffff"
+      stroke: "#c47700"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  apigw: "AWS API Gateway" {
+    style: {
+      fill: "#FF9900"
+      font-color: "#ffffff"
+      stroke: "#c47700"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  rds: "AWS RDS\n(PostgreSQL)" {
+    style: {
+      fill: "#FF9900"
+      font-color: "#ffffff"
+      stroke: "#c47700"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  web -> apigw
+  apigw -> rds
+}
+
+# ─── ZONE 2 : Streaming & CDC (EC2) ───────────────────────
+zone2: "② Streaming & CDC (Amazon EC2)" {
+  style: {
+    fill: "#fff2ef"
+    stroke: "#E8471D"
+    stroke-width: 3
+    border-radius: 12
+    font-size: 15
+    bold: true
+  }
+
+  debezium: "Debezium\n(CDC)" {
+    style: {
+      fill: "#E8471D"
+      font-color: "#ffffff"
+      stroke: "#b33615"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  kafka: "Apache Kafka" {
+    style: {
+      fill: "#E8471D"
+      font-color: "#ffffff"
+      stroke: "#b33615"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  debezium -> kafka: "Change Events"
+}
+
+# ─── ZONE 3 : Traitement (AWS) ────────────────────────────
+zone3: "③ Traitement (AWS)" {
+  style: {
+    fill: "#fff8f0"
+    stroke: "#FF9900"
+    stroke-width: 3
+    border-radius: 12
+    font-size: 15
+    bold: true
+  }
+
+  glue: "AWS Glue Spark" {
+    style: {
+      fill: "#FF9900"
+      font-color: "#ffffff"
+      stroke: "#c47700"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  s3: "Amazon S3\n(offsets only)" {
+    style: {
+      fill: "#3F8624"
+      font-color: "#ffffff"
+      stroke: "#2d6119"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  glue <-> s3: "offsets ↕" {
+    style: {
+      stroke-dash: 5
+      stroke: "#888888"
+      font-size: 12
+    }
+  }
+}
+
+# ─── ZONE 4a : GCP ────────────────────────────────────────
+zone4a: "④a GCP — Analytique & IA" {
+  style: {
+    fill: "#f0f4ff"
+    stroke: "#4285F4"
+    stroke-width: 3
+    border-radius: 12
+    font-size: 15
+    bold: true
+  }
+
+  bq: "Google BigQuery" {
+    style: {
+      fill: "#4285F4"
+      font-color: "#ffffff"
+      stroke: "#2a5cc7"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  vertex: "Vertex AI\n(Claude Model)" {
+    style: {
+      fill: "#4285F4"
+      font-color: "#ffffff"
+      stroke: "#2a5cc7"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  looker: "Looker Studio\n📊 Dashboards" {
+    style: {
+      fill: "#5B21B6"
+      font-color: "#ffffff"
+      stroke: "#3d1680"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  bq -> vertex
+  vertex -> looker
+}
+
+# ─── ZONE 4b : Snowflake ──────────────────────────────────
+zone4b: "④b Snowflake — Entrepôt & BI" {
+  style: {
+    fill: "#f0faff"
+    stroke: "#29B5E8"
+    stroke-width: 3
+    border-radius: 12
+    font-size: 15
+    bold: true
+  }
+
+  snow: "Snowflake DW" {
+    style: {
+      fill: "#29B5E8"
+      font-color: "#ffffff"
+      stroke: "#1a8fb8"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  dbt: "dbt Cloud\n(Fusion engine)" {
+    style: {
+      fill: "#FF694B"
+      font-color: "#ffffff"
+      stroke: "#cc4a30"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  powerbi: "Power BI\n📊 Reporting" {
+    style: {
+      fill: "#5B21B6"
+      font-color: "#ffffff"
+      stroke: "#3d1680"
+      border-radius: 8
+      bold: true
+      font-size: 14
+    }
+  }
+
+  snow <-> dbt: "transform ↕" {
+    style: {
+      stroke: "#FF694B"
+      stroke-width: 2
+      font-size: 12
+    }
+  }
+  snow -> powerbi
+}
+
+# ─── CONNEXIONS INTER-ZONES ───────────────────────────────
+zone1.rds -> zone2.debezium: "CDC read" {
+  style.stroke: "#E8471D"
+  style.stroke-width: 2
+  style.font-size: 13
+}
+
+zone2.kafka -> zone3.glue: "stream consume" {
+  style.stroke: "#FF9900"
+  style.stroke-width: 2
+  style.font-size: 13
+}
+
+zone3.glue -> zone4a.bq: "load →\nGCP" {
+  style.stroke: "#4285F4"
+  style.stroke-width: 2
+  style.font-size: 13
+}
+
+zone3.glue -> zone4b.snow: "load →\nSnowflake" {
+  style.stroke: "#29B5E8"
+  style.stroke-width: 2
+  style.font-size: 13
+}
