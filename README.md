@@ -164,7 +164,7 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/">
-        <img height="140" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="opacity:0.55;filter:grayscale(40%)" title="Azure AI Engineer Associate (AI-102) — In Progress" />
+        <img height="140" src="./badges/ai102_wip.png" title="Azure AI Engineer Associate (AI-102) — In Progress" />
       </a>
       <br/>
       <b>Azure AI-102</b><br/>
@@ -172,7 +172,7 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-customer-experience-analyst-associate/">
-        <img height="140" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="opacity:0.55;filter:grayscale(40%)" title="Dynamics 365 Customer Experience Analyst (MB-280) — In Progress" />
+        <img height="140" src="./badges/mb280_wip.png" title="Dynamics 365 Customer Experience Analyst (MB-280) — In Progress" />
       </a>
       <br/>
       <b>Microsoft MB-280</b><br/>
