@@ -3,8 +3,8 @@
 <div align="center">
 
 <p>
-  <a href="https://josueavuh.vercel.app/en">
-    <img src="https://img.shields.io/badge/Portfolio-josueavuh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://josueavuh.com">
+    <img src="https://img.shields.io/badge/Portfolio-josueavuh.com-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/josue-avuh-03957827a">
     <img src="https://img.shields.io/badge/LinkedIn-Josué_Avuh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -94,29 +94,68 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
 
 ## Featured Projects
 
+### 🤖 [Agent Patterns](https://github.com/likemcode/agent-patterns)
+> AI agent design patterns implemented in Python — from ReAct to multi-agent orchestration.
+
+- 7 patterns with working implementations, benchmarks, and tests
+- Personal journal documenting 13 months of experimentation
+- **Stack:** Python · OpenAI · Anthropic · pytest
+
+---
+
+### ☁️ [Cloud Labs](https://github.com/likemcode/cloud-labs)
+> Hands-on cloud infrastructure labs with real configs, logbook, and personal cheatsheets.
+
+- 6 self-contained labs: Docker, Terraform, K8s, CI/CD, Monitoring, Serverless
+- Logbook with real mistakes and learnings
+- **Stack:** Docker · Terraform · Kubernetes · GitHub Actions · Prometheus · AWS SAM
+
+---
+
+### 📊 [Data Platform Notes](https://github.com/likemcode/data-platform-notes)
+> Personal data engineering knowledge base — SQL patterns, Spark, Airflow, dbt, and hard-won gotchas.
+
+- Production-tested SQL patterns, PySpark ETL scripts, Airflow DAGs
+- dbt models with full schema tests, gotchas folder with real pitfalls
+- **Stack:** SQL · PySpark · Airflow · dbt
+
+---
+
+### 📡 [LinkedIn Mission Control](https://github.com/likemcode/linkedin-mission-control)
+> Content planning, AI-powered writing, and auto-publishing for LinkedIn.
+
+- AI post generation via Claude, scoring, templates, batch mode
+- Auto-publish scheduler, analytics dashboard, ideas bank
+- **Stack:** Next.js · Prisma · SQLite · Maton API · Claude Code
+
+---
+
+<details>
+<summary><b>Private projects</b></summary>
+
 ### 🏦 NeoCredit — Credit Data Platform
 > Production-grade credit bureau simulation on AWS — built for real Data Engineering training.
 
 - 850k client profiles · 2.5M+ credit applications · ~6.8M rows total
 - Real-time ingestion at ~23 clients/min via Lambda + EventBridge
 - **Stack:** PostgreSQL (RDS) · Kafka · Glue · Snowflake · BigQuery · Python
-- `🔒 Private`
-
----
 
 ### 📡 IT Opportunities Tracker
 > Multi-repo intelligence system mapping consultant supply, market demand, and skill gaps.
 
 - 7 coordinated repos · automated insights pipeline · bi-weekly synthesis reports
 - **Stack:** Python · GitHub Actions · NLP · internal BI dashboard
-- `🔒 Private`
+
+</details>
 
 ---
 
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_SAA--C03-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://www.credly.com/badges/3b234e13-e48f-4474-bba6-3738a5788ff1/public_url">
+    <img src="https://img.shields.io/badge/AWS_SAA--C03-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Azure_AI--102-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_MB--280-Certified-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
@@ -129,32 +168,6 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
   <img src="https://github-readme-stats.vercel.app/api?username=likemcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likemcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=likemcode&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=likemcode&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=likemcode&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED" />
-</div>
-
----
-
-## Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likemcode/likemcode/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likemcode/likemcode/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/likemcode/likemcode/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
