@@ -58,12 +58,11 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
 ### 🤖 AI & Agent Engineering
 
 <p>
-  <a href="https://claude.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/claude.svg" title="Claude" /></a>&nbsp;&nbsp;
-  <a href="https://openai.com"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openai.svg" title="OpenAI" /></a>&nbsp;&nbsp;
+  <a href="https://openclaw.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openclaw.svg" title="OpenClaw — AI Agent Runtime" /></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/bedrock"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/amazonaws.svg" title="Amazon Bedrock" /></a>&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-us/products/ai-services"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/microsoftazure.svg" title="Azure AI Foundry" /></a>&nbsp;&nbsp;
-  <a href="https://opensearch.org"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/opensearch.svg" title="OpenSearch" /></a>&nbsp;&nbsp;
-  <a href="https://openclaw.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openclaw.svg" title="OpenClaw — AI Agent Runtime" /></a>
+  <a href="https://cloud.google.com/vertex-ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/vertexai.svg" title="Vertex AI" /></a>&nbsp;&nbsp;
+  <a href="https://claude.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/claude.svg" title="Claude" /></a>
 </p>
 
 ### 📊 Data Engineering
