@@ -152,11 +152,34 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
 
 ## Certifications
 
-<p>
-  <a href="https://www.credly.com/badges/3b234e13-e48f-4474-bba6-3738a5788ff1/public_url">
-    <img height="150" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" title="AWS Certified Solutions Architect – Associate (SAA-C03)" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/3b234e13-e48f-4474-bba6-3738a5788ff1/public_url">
+        <img height="140" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" title="AWS Certified Solutions Architect – Associate (SAA-C03)" />
+      </a>
+      <br/>
+      <b>AWS SAA-C03</b><br/>
+      <sub>Solutions Architect Associate</sub>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/">
+        <img height="140" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="opacity:0.55;filter:grayscale(40%)" title="Azure AI Engineer Associate (AI-102) — In Progress" />
+      </a>
+      <br/>
+      <b>Azure AI-102</b><br/>
+      <sub>AI Engineer Associate — <i>In Progress</i></sub>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-customer-experience-analyst-associate/">
+        <img height="140" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="opacity:0.55;filter:grayscale(40%)" title="Dynamics 365 Customer Experience Analyst (MB-280) — In Progress" />
+      </a>
+      <br/>
+      <b>Microsoft MB-280</b><br/>
+      <sub>D365 CX Analyst Associate — <i>In Progress</i></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
