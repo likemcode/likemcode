@@ -59,7 +59,7 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
 
 <p>
   <a href="https://openclaw.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/openclaw.svg" title="OpenClaw — AI Agent Runtime" /></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/bedrock"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/bedrock.png" title="Amazon Bedrock" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/bedrock"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/bedrock.svg" title="Amazon Bedrock" /></a>&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-us/products/ai-services"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/foundry.svg" title="Azure AI Foundry" /></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/vertex-ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/vertex.png" title="Vertex AI" /></a>&nbsp;&nbsp;
   <a href="https://claude.ai"><img height="45" src="https://raw.githubusercontent.com/likemcode/likemcode/main/icons/claude.svg" title="Claude" /></a>&nbsp;&nbsp;
