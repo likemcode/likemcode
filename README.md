@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/josue-avuh-03957827a">
     <img src="https://img.shields.io/badge/LinkedIn-Josué_Avuh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jkomi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jkomi2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:josuelikem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-josuelikem%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -160,7 +160,7 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
       </a>
       <br/>
       <b>AWS SAA-C03</b><br/>
-      <sub>Solutions Architect Associate</sub>
+      <sub>Solutions Architect Associate — Certified</sub>
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/">
@@ -176,7 +176,7 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
       </a>
       <br/>
       <b>Microsoft MB-280</b><br/>
-      <sub>D365 CX Analyst Associate — <i>In Progress</i></sub>
+      <sub>Agentic AI Business Solution Architect — <i>In Progress</i></sub>
     </td>
   </tr>
 </table>
