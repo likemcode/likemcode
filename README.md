@@ -154,10 +154,8 @@ I've trained data engineering consultants now deployed at **Hermès**, **BPCE**,
 
 <p>
   <a href="https://www.credly.com/badges/3b234e13-e48f-4474-bba6-3738a5788ff1/public_url">
-    <img src="https://img.shields.io/badge/AWS_SAA--C03-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img height="150" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" title="AWS Certified Solutions Architect – Associate (SAA-C03)" />
   </a>
-  <img src="https://img.shields.io/badge/Azure_AI--102-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_MB--280-Certified-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
